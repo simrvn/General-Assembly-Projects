@@ -58,8 +58,6 @@ This Project will investigate and understand the trends between the participatio
 |act_science_2018|float64|final|Average Science Score of a State in 2018|
 |act_composite_2018|float64|final|Average Composite Score of a State in 2018|
 
-These data give average SAT and ACT scores by state, as well as participation rates, for the graduating class of 2017/18.
-
 ---
 
 ### Conclusions and Recommendations
