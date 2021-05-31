@@ -1,5 +1,7 @@
 # Project 1: Standardized Testing, Statistical Summaries and Inference
 
+---
+
 ### Problem Statement
 
 The SATs and the ACTs are the two most popular exams used for admissions into colleges in the United States of America (USA). However, their differing assessment criterias, subjects tested and grading standards has divided students to pick one over the other. This has also been reflected onto the popularity of the exams across all states in USA.
@@ -11,6 +13,8 @@ With various state-wide and college-based regulations as well as mandatory ACT t
 ### Executive Summary 
 
 This Project will investigate and understand the trends between the participation rates and scores of the SATs and ACTS from the years 2017 to 2018. From the findings, recommendations will be proposed to improve the participation rates of the SATs. To successfully provide these recommendation, we had to understand the SAT and ACT datasets of 2017 and 2018 to understand the trend between the variables in the datasets, which was done through exploratory data analysis. Then we proceeded to explore these trends further through data visualisations such as correlation heatmaps, scatter plots, box plots and choropleth maps. With extra research on the side, we were able to pick out the criteria of the states that we wanted to improve and picked South Dakota as the ideal state. South Dakota does not have any mandated admission tests and still had a relative number of participation rates indicating students that are interested and willing to take part in the admissions tests. Some ways to improve the participation rate was through subsidies, improved learning resources, accesible locations and campaigns.
+
+---
 
 ### Data Dictionary (SAT AND ACT 2017 Data Sets)
 
@@ -55,6 +59,8 @@ This Project will investigate and understand the trends between the participatio
 |act_composite_2018|float64|final|Average Composite Score of a State in 2018|
 
 These data give average SAT and ACT scores by state, as well as participation rates, for the graduating class of 2017/18.
+
+---
 
 ### Conclusions and Recommendations
 
