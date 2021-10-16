@@ -8,6 +8,8 @@ The SATs and the ACTs are the two most popular exams used for admissions into co
 
 With various state-wide and college-based regulations as well as mandatory ACT testing in certain states, there seems to be a decline in the participation rate of the SATs. The [New York Times](https://www.nytimes.com/2020/05/23/us/SAT-ACT-abolish-debate-california.html) has even reported that University of California will stop requiring the need for SATs and ACTs for admissions entirely. 
 
+This Project will investigate and understand the trends between the participation rates and scores of the SATs and ACTS from the years 2017 to 2018. From the findings, recommendations will be proposed to improve the participation rates of the SATs.
+
 ---
 
 ### Executive Summary 
