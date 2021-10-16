@@ -6,7 +6,7 @@ Natural Language Processing (NLP) is a hyponym of computer science and artificia
 
 In this project, we will be using NLP to distinguish posts from two subreddit posts i.e. r/datascience and r/SoftwareEngineering. To solve this binary classfication problem will also be looking at mulitple supervised machine learning models to help us distinguish our posts. However, with numerous machine learning models, how do we decide which model is the best to help us in our task?
 
-Problem Statement: Which classfication model can best distinguish which subreddit a post belongs to?
+Problem Statement: How can we best create a classification model with high accuracy that can distinguish which subreddit a post belongs to?
 
 We will be looking at various evaluation metrics for classifications models, such as the train and test accuracy scores, precision and recall scores, f1-score, and the ROC AUC score to evaluate the performances of our models and both the train and test data and pick the best model that caters to our task.
 
