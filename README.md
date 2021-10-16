@@ -10,7 +10,7 @@ For more information click [here](https://github.com/simrvn/General-Assembly-Pro
 
 ---
 
-### Project 2: Ames Housing Regression 
+### Project 2: Ames Housing Price Regression Problem
 Problem Statment: How can we best create a regression model that is able to predict the sale price of a house accurately? 
 
 For more information click [here](https://github.com/simrvn/General-Assembly-Projects/tree/main/ames_housing_regression)
