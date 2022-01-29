@@ -27,6 +27,7 @@ For more information click [here](https://github.com/simrvn/General-Assembly-Pro
 ### Project 4: West Nile Virus
 Problem Statememt: How can we best create a classification model that is able to predict the presence of west nile virus accurately?
 
+For more information click [here](https://github.com/simrvn/General-Assembly-Projects/tree/main/west-nile-virus)
 ---
 
 ### Project 5: Capstone: Face Mask Detector (Image Classification and Object Detection)
